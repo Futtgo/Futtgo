@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Futtgo
+- 👀 I’m interested in learn programmig 
+- 🌱 I’m currently learning phyton
